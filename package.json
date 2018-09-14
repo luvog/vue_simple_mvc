@@ -1,6 +1,6 @@
 {
   "name": "views",
-  "description": "walmeric test",
+  "description": "Vue app for consume simple_mvc API Rest PHP7 based",
   "version": "1.0.0",
   "author": "lvolivaresgomez <lvolivaresgomez@gmail.com>",
   "private": true,
